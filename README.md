@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khanprogrsmmer203
+- 👋 Hi, I’m @Khanprogrammer203
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
